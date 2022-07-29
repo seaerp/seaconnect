@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "227627955464",
+    "project_id": "odoo-database-15062022",
+    "storage_bucket": "odoo-database-15062022.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:227627955464:android:6ac67e98500abc724f68bd",
+        "android_client_info": {
+          "package_name": "com.example.sea_connect"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "227627955464-jrl8gpbem60ta87kb2adk9kmn62d80c7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8M6tv123zG_k6c6kgTORXjM5CV2N3L-U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "227627955464-jrl8gpbem60ta87kb2adk9kmn62d80c7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
